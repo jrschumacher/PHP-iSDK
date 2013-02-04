@@ -1,0 +1,10 @@
+{
+    "name": "infusionsoft/PHP-iSDK",
+    "description": "The Offical Infusionsoft API PHP SDK",
+    "keywords": ["infusionsoft", "api"],
+    "homepage": "http://developers.infusionsoft.com",
+    "license": "",
+    "autoload": {
+        "psr-0": { "Infusionsoft": "src/psr-0" }
+    }
+}
